@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Test News 1",
+    "text": "This is a sample test article for import testing.",
+    "date": "2026-02-21",
+    "categories": ["test", "demo"]
+  },
+  {
+    "title": "Test News 2",
+    "text": "Second sample article for bulk import testing.",
+    "date": "2026-02-22",
+    "categories": ["sample"]
+  }
+]
