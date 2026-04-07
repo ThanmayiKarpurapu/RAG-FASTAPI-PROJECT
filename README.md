@@ -17,6 +17,9 @@ The system allows:
 - LLM-based answer generation
 - Chat mode with session memory
 
+<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/9825cdb4-b83e-4ac0-a4f1-df81d74a4c71" />
+
+-FastAPI (demo images)
 <img width="1280" height="667" alt="image" src="https://github.com/user-attachments/assets/da2be15f-167c-4eb8-a4db-e92c69d819e1" />
 <img width="1274" height="732" alt="image" src="https://github.com/user-attachments/assets/3cd9d5a5-40ee-4e3b-aa2b-165dd3b223b0" />
 
